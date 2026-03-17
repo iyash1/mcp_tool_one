@@ -1,0 +1,6 @@
+gradio>=3.50,<4
+openai>=1.0.0
+python-dotenv>=0.21.0
+colorama>=0.4.6
+httpx>=0.24.0
+typing-extensions>=4.0.0
