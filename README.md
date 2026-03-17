@@ -89,9 +89,3 @@ mcp_tool_one/
 ## Troubleshooting
 - Missing API key: both server and client will raise an error if `OPENAI_API_KEY` is not set.
 - If streaming responses hang, check network connectivity and that `MCP_BASE` points to the running server.
-
-## Contributing
-PRs and issues welcome — please include clear reproduction steps.
-
-## License
-Add a license file or text here.
