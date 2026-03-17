@@ -29,8 +29,6 @@ Copy or create a `.env` file in the repository root and set your OpenAI API key:
 ```bash
 # Example .env
 OPENAI_API_KEY=sk-...
-DEBUG=True
-AUTOMATED_TESTING=True
 ```
 
 The server and client read `OPENAI_API_KEY` from the environment (see [mcp_server/common/init_client.py](mcp_server/common/init_client.py) and [mcp_client/app.py](mcp_client/app.py)).
